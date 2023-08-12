@@ -1,0 +1,5 @@
+# Unpinned blobs from NX651J-EEA 10 QKQ1.200503.002 nubia.20220228.184335
+
+# NFC firmware
+vendor/firmware/sec_s3nrn81_firmware.bin
+vendor/firmware/sec_s3nrn81_rfreg.bin
