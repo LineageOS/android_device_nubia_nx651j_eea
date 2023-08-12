@@ -40,7 +40,8 @@ PRODUCT_COPY_FILES += \
 
 # Ramdisk
 PRODUCT_PACKAGES += \
-    init.nfc.sku.sh
+    init.nfc.sku.sh \
+    init.nubia.device.rc
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
